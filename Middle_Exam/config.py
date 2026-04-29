@@ -1,0 +1,1 @@
+OPENAI_API_KEY = "본인의 API KEY 입력"
